@@ -9,7 +9,7 @@
 	url = https://github.com/google/benchmark.git
 [submodule "modules/mavlink"]
 	path = modules/mavlink
-	url = https://github.com/ArduPilot/mavlink.git
+	url = https://github.com/Tails86/mavlink.git
 [submodule "gtest"]
 	path = modules/gtest
 	url = https://github.com/ArduPilot/googletest.git
